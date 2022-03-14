@@ -1,3 +1,6 @@
+[<img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?&sflat&logo=linkedin&logoColor=white" alt="Linkedin profile link button" height="20" width="70" />](https://www.linkedin.com/in/hoi-ching-yip/) &emsp;[<img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="View in Medium" height="20" width="70" />](https://medium.com/@melodyyip515_/using-waterfall-charts-in-python-to-analyze-iowa-liquor-change-d9eeaf51f553) &emsp;[<img src="https://img.shields.io/badge/Tableau-%23ff4d4d.svg?&sflat&logo=tableau&logoColor=white" alt="Tableau profile link button" height="20" width="70" >](https://public.tableau.com/app/profile/yip.hoi.ching#!/?newProfile=&activeTab=0) &emsp; [<img src="https://img.shields.io/badge/Github Blog-%23181717.svg?&style=flat&logo=github&logoColor=white" alt="Github profile link button" height="20" width="90" alt="Github Blog Button"/>](https://github.com/melodyyip?tab=repositories) 
+
+
 # Iowa_SaleAnalysis_Waterfall
 
 Waterfall chart shows a running total as values are added or subtracted. It's useful for understanding how an initial value is affected by a series of positive and negative values.
